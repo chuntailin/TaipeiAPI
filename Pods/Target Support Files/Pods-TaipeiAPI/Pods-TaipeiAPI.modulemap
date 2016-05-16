@@ -1,0 +1,6 @@
+framework module Pods_TaipeiAPI {
+  umbrella header "Pods-TaipeiAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
