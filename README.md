@@ -9,8 +9,6 @@
 
 <h4>TaipeiAPI 是串接台北市政府 <em>Open data API</em> 的程式庫，獲取台北市政府的捷運施工資訊，並在 <strong>MapView</strong> 上用 <strong>Annotation</strong> 標明各個施工地點的位置。當使用者點擊任意一個施工地點的 <strong>Annotation</strong> 時，APP 下方會計算出使用者的目前位置與所選的施工地點之間的<strong>距離</strong>以及<strong>預估開車會到達的時間</strong>，而在點選 <strong>Annotation</strong> 上的 <strong>Detail Button</strong> 時，會顯示使用者所選的施工地點的詳細資訊</h4>
 
-<p>APP 畫面：</p>
-
 <p><img src="http://i.imgur.com/8s6nQJ6.png" alt="" title="" width= "200px"> 
 <img src="http://i.imgur.com/daDnNme.png" alt="" title="" width= "200px"> 
 <img src="http://i.imgur.com/gNH4pNF.png" alt="" title="" width= "200px">
