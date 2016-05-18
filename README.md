@@ -48,7 +48,7 @@
   <p><strong>Note：</strong> run <code>$ pod install</code>  first</p>
 </blockquote>
 
-<hr>
+
 
 
 
@@ -125,7 +125,6 @@
   <p>Alamofire 參考資料：<a href="https://github.com/Alamofire/Alamofire">這裡</a></p>
 </blockquote>
 
-<hr>
 
 
 
@@ -146,7 +145,7 @@
         <span class="hljs-keyword">let</span> yString = json[<span class="hljs-string">"Y"</span>].stringValue</code></pre>
 
 <blockquote>
-  <p><strong>Note：</strong>從 Data.Taipei 所接收到的 X, Y 為二度分帶座標，需要再轉為經緯度。轉換的過程我參考了 <a href="https://github.com/Hokila/TownCandidateMap/blob/master/TownCandidateMap/TownCandidateMap/GATool.m">GATool</a> 的寫法，並改寫成 Swift 格式。</p>
+  <p><strong>Note：</strong>從 Data.Taipei 所接收到的 X, Y 為二度分帶座標，需要再轉為經緯度。轉換的過程參考了 <a href="https://github.com/Hokila/TownCandidateMap/blob/master/TownCandidateMap/TownCandidateMap/GATool.m">GATool</a> 的寫法，並改寫成 Swift 格式</p>
 </blockquote>
 
 <p>當 <strong>ServerManager</strong> 發出 HTTP request 後，將 Server 所回傳的 response.value 轉成 <strong>jsonArray</strong> ，再將 <strong>jsonArray</strong> 內的物件用 <strong>Site</strong> 包起來並 append 進去 <strong>Sites</strong></p>
@@ -182,7 +181,6 @@ jsonArray.forEach({ (json) <span class="hljs-keyword">in</span>
   <p>當然，每個 Component 之間都設定好了 <strong>Autolayout</strong> ，以對應不同尺寸的 iPhone 螢幕，DetailViewController 的地方是將所有Component 用 <strong>StackView</strong> 包起來，以方便統一調整</p>
 </blockquote>
 
-<hr>
 
 
 
