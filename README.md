@@ -45,7 +45,7 @@
 <p>由於 TaipeiAPI 有使用到第三方的套件，像是 <strong>Alamofire</strong> 與 <strong>SwiftyJSON</strong> 等等，故使用 CocoaPod 來管理這些套件</p>
 
 <blockquote>
-  <p><strong>Note：</strong> run <code>$ pod install</code>  first</p>
+  <p><strong>Note：</strong> 如果要執行這個Project，請先執行<code>$ pod install</code></p>
 </blockquote>
 
 
