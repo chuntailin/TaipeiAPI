@@ -24,7 +24,7 @@
 <li><a href="#step-2-parse-json">Step 2. - Parse JSON</a></li>
 <li><a href="#step-3-storyboard-mapview-and-detailview"> Step 3. - Storyboard : MapView and DetailView</a></li>
 <li><a href="#step-4-delegate-mapviewdelegate">Step 4. - Delegate - MapViewDelegate</a></li>
-<li><a href="#step-5-segue-prepareforsegue"> Step 5.  Segue - PrepareForSegue</a></li>
+<li><a href="#step-5-segue-prepareforsegue"> Step 5. - Segue - PrepareForSegue</a></li>
 </ul>
 </li>
 </ul>
